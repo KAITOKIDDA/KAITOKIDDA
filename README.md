@@ -5,7 +5,7 @@
 감자 탈출해서 고수가 될 때까지 달려보겠습니다.<br><br>
 **기술 스택** <br>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br>
-<img src="https://github.com/user-attachments/assets/101d7e82-dd5a-4416-a6ed-1beae69a8567">
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 
 **활동** <br>     
     - ICPC 2023 SEOUL REGIONAL 본선 <br>
