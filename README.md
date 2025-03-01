@@ -9,8 +9,8 @@ GDSC 웹스터디에 열심히 참여하고<br>
 
 **활동** <br>     
     -ICPC 2023 SEOUL REGIONAL 본선 <br>
-    -24-1 Matrix 심화 컨퍼런스 장려상 <br>
-    -24-1 GDGoC Hongik X Hypen 하지톤 <br>
+    -24-1 Matrix 심화 컨퍼런스 대회 장려상 <br>
+    -24-1 GDGoC Hongik X Hypen 하지톤 우수상 <br>
     -24-2 GDGoC Hongik 운영지원팀 <br>
     -25-1 GDGoC Hongik DevRel
     
