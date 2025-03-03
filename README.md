@@ -16,5 +16,5 @@
     - 24-2 GDGoC Hongik 운영지원팀 <br>
     - 25-1 GDGoC Hongik DevRel
     
-**프로젝트**
+**프로젝트**   
     - 24-1 GDGoC Hongik 프로젝트 트랙 제니팀 '커몽'
