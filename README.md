@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 
 **활동**   
-    - ICPC 2023 SEOUL REGIONAL 본선 <br>
+    - 23-2 ICPC 2023 SEOUL REGIONAL 본선 <br>
     - 24-1 Matrix 심화 컨퍼런스 대회 장려상 <br>
     - 24-1 GDGoC Hongik X Hypen 하지톤 우수상 <br>
     - 24-2 GDGoC Hongik 운영지원팀 <br>
