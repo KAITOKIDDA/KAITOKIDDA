@@ -19,4 +19,4 @@
     - 25-1 GDGoC Hongik BE 파트 멤버
     
 **프로젝트**   
-    - 24-1 GDGoC Hongik 프로젝트 트랙 제니팀 '커몽'
+    - 24-1 GDGoC Hongik 프로젝트 트랙 제니팀 '커몽' FE 파트
