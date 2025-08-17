@@ -16,9 +16,9 @@
     - 24-1 GDGoC Hongik X Hypen 하지톤 우수상 <br>
     - 24-2 GDGoC Hongik 운영지원팀 <br>
     - 25-1 GDGoC Hongik DevRel <br>
-    - 25-1 GDGoC Hongik BE 파트 멤버
+    - 25-1 GDGoC Hongik BE 파트 멤버 <br>
     - 25-1 GDGoC Hongik X Hypen 하지톤 운영진
     
 **프로젝트**   
-    - 24-1 GDGoC Hongik 프로젝트 트랙 제니팀 '커몽' FE 파트
+    - 24-1 GDGoC Hongik 프로젝트 트랙 제니팀 '커몽' FE 파트 <br>
     - 25-1 GDGoC Hongik 프로젝트 트랙 신사임당팀 '마실꾼' 팀장 & BE 파트
