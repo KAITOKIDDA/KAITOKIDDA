@@ -15,12 +15,14 @@
 
 **활동**   
     - 23-2 ICPC 2023 SEOUL REGIONAL 본선 <br>
-    - 24-1 Matrix 심화 컨퍼런스 대회 장려상 <br>
+    - 24-1 Matrix ML/DL 심화 컨퍼런스 대회 장려상 <br>
     - 24-1 GDGoC Hongik X Hypen 하지톤 우수상 <br>
     - 24-2 GDGoC Hongik 운영지원팀 <br>
     - 25-1 GDGoC Hongik DevRel <br>
     - 25-1 GDGoC Hongik BE 파트 멤버 <br>
-    - 25-1 GDGoC Hongik X Hypen 하지톤 운영진
+    - 25-1 GDGoC Hongik X Hypen 하지톤 운영진 <br>
+    - 25-2 GDGoC Hongik 코어멤버 <br>
+    - 25-2 GDGoC Hongik BE 파트 멤버
     
 **프로젝트**   
     - 24-1 GDGoC Hongik 프로젝트 트랙 제니팀 '커몽' FE 파트 <br>
