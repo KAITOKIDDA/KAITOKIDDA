@@ -1,8 +1,7 @@
 ## 자기소개
  안녕하세요<br><br>
 컴퓨터공학과 3학년에 재학 중인 00년생 김태우입니다.<br>
-아는 건 쥐뿔도 없지만<br>
-감자 탈출해서 고수가 될 때까지 달려보겠습니다.<br><br>
+문제 해결과 조직 문화에 기여하는 백엔드 개발자를 지망하고 있습니다.<br><br>
 **기술 스택** <br>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
