@@ -14,7 +14,7 @@
 
 **활동**   
     - 23-2 ICPC 2023 SEOUL REGIONAL 본선 <br>
-    - 24-1 Matrix ML/DL 심화 컨퍼런스 대회 장려상 <br>
+    - 24-1 산업데이터공학과 인공지능 동아리 Matrix ML/DL 심화 컨퍼런스 대회 장려상 <br>
     - 24-1 GDGoC Hongik X Hypen 하지톤 우수상 <br>
     - 24-2 GDGoC Hongik 운영지원팀 <br>
     - 25-1 GDGoC Hongik DevRel <br>
