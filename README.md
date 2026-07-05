@@ -34,7 +34,7 @@
     - 25-2 GDGoC Hongik 코어멤버 <br>
     - 25-2 GDGoC Hongik BE 파트 멤버 <br>
     - 26-1 GDGoC Hongik BE 파트 멤버 <br>
-    - 2026 OSSCA Git 활용 및 OpenStack 체험형 과정 <br>
+    - 2026 OSSCA Git 활용 및 OpenStack 체험형 과정 수료 <br>
     - 프로그래머스 단기심화 데브코스 7기
     
 **프로젝트**   
