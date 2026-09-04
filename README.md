@@ -35,13 +35,13 @@
     - 25-2 GDGoC Hongik BE 파트 멤버 <br>
     - 26-1 GDGoC Hongik BE 파트 멤버 <br>
     - 2026 OSSCA Git 활용 및 OpenStack 체험형 과정 수료 <br>
-    - 프로그래머스 단기심화 데브코스 7기
+    - 프로그래머스 데브코스 백엔드 단기심화 7기 수료
     
 **프로젝트**   
     - 24-1 GDGoC Hongik 프로젝트 트랙 제니팀 컴퓨터공학과 커뮤니티&프로젝트 매칭 플랫폼 '커몽' FE 파트 <br>
     - 25-1 GDGoC Hongik 프로젝트 트랙 신사임당팀 로컬 여행 큐레이팅 플랫폼 '마실꾼' 팀장 & BE 파트 <br>
     - 홍익대 미대 홈페이지 업로드 시스템 마이그레이션 외주 <br>
     - 하인리히 B2G 공간 위험도 분석 API 엔진 <br>
-    - 자율형 에이전트 기반 SRE 검증 플랫폼 졸업 프로젝트 BE (진행 중) <br>
-    - AWS Infra SRE 4인 팀 프로젝트 Terraform/IaC 파트 (진행 중) <br>
-    - 스토리텔링형 한정판 거래 플랫폼 'D:EAR' Financial 파트 (진행 중)
+    - AWS Infra SRE 4인 팀 프로젝트 Terraform/IaC 파트 <br>
+    - 스토리텔링형 한정판 거래 플랫폼 'D:EAR' Financial BC(Payment, Wallet) & common-messaging 모듈 (진행 중) <br>
+    - 자율형 에이전트 기반 SRE 검증 플랫폼 졸업 프로젝트 BE (진행 중)
